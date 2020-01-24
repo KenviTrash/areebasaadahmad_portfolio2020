@@ -1,8 +1,9 @@
 <h1> Welcome to Areeba Saad Ahmad's ISU4U Portfolio</h1>
 
-Containing (from Khan Academy):
+Table of Contents:
 <ul>
-  <ol>Algorithms</ol>
-2. Introduction to Javascript
-3. Introduction to HTML/CSS
-4. Javascript: Natural Simulations
+  <li>Khan Academy</li>
+  <ol>
+    <li>Algorthims</li>
+  </ol>
+</ul>
