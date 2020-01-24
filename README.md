@@ -2,7 +2,7 @@
 
 Containing (from Khan Academy):
 <ul>
-  <li>1. Algorithms</li>
+  <ol>Algorithms</ol>
 2. Introduction to Javascript
 3. Introduction to HTML/CSS
 4. Javascript: Natural Simulations
