@@ -1,6 +1,3 @@
-<html>
-<script language="javascript">
-
 var xPositions = [100, 125, 150, 175, 200, 225, 250, 275, 300, 325, 350];
 var yPositions = [0, 25, 50, 75, 100, 125, 150, 175, 200, 225, 250];
 
@@ -16,5 +13,3 @@ draw = function() {
         yPositions[i] += random(1,10);
     }
 };
-</script>
-</html>
